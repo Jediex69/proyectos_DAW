@@ -1,5 +1,5 @@
-README - Lenguaje de marcas y sistemas de gestión de información.
-PAC de desarrollo 2S2425
+#README - Lenguaje de marcas y sistemas de gestión de información.
+#PAC de desarrollo 2S2425
 
 AUTOR: Jesús Díaz Expósito
 
