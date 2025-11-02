@@ -15,15 +15,13 @@ La aplicación muestra imágenes, texto, enlaces y un formulario. Es una prácti
 
 ## 📁 Estructura del proyecto
 CatPhotoApp/
-├── index.html
-└── styles.css
+└── index.html
 
 
 ## 🎯 Objetivos de aprendizaje
 
 - Comprender la estructura de una página web
 - Usar etiquetas semánticas en HTML
-- Aplicar estilos básicos con CSS
 - Organizar contenido visual y textual
 
 ## 📚 Recursos
@@ -32,7 +30,7 @@ Este proyecto forma parte del módulo [CatPhoto App](https://www.freecodecamp.or
 
 ## 🧑‍💻 Autor
 
-**Jesús Díaz**  
+**Jesús Díaz Expósito**  
 [GitHub](https://github.com/Jediex69)
 
 ---
