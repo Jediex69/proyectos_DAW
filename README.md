@@ -25,7 +25,7 @@ cd proyectos_DAW/cblf
 
 ## 📚 Tecnologías utilizadas
 HTML5 / CSS3 / JavaScript
-Django / Python
+Python
 MySQL / SQLite
 Git / GitHub
 
